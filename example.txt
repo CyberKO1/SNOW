@@ -1,0 +1,91 @@
+Scheduled Start(date & time)
+11/02/2026 02:00:00
+Scheduled End(date & time)
+11/02/2026 05:00:00
+Actual start date
+11/02/2026 02:00:00
+Actual end date
+11/02/2026 05:00:00
+Change Type
+
+Accelerated
+State
+
+Short description
+[ACCELERATED] - [Costa China] - Deployment of new PA Backup server in CN3
+
+Change Summary & Business Justification
+Per Andy Burn's request RITM0080612, a new PA Backup VM resource CN3PRDPOBXAPP1 is requested in CN3 region. The resource will be deployed with terraform code in Azure DevOps
+
+Affected Services/ Systems / Components/ Applications Impacted
+None - New resource provisioning has no impact.
+
+Implementation plan
+Pre- Implementation Plan 
+Step 1 - 11/02/2026 02:00:00 - 00:30 - From Azure DevOps run Terraform plan phase and check output - Cyber Chen - No Outage
+
+Implementation Plan
+Step 1 - 11/02/2026 02:30:00 - 00:30 - From Azure DevOps run Terraform apply - Cyber Chen - No Outage
+
+
+Test plan
+Post-implementation Tests
+Step 1 - 11/02/2026 03:00:00 - 00:30 - From Azure Portal check VM Status - Cyber Chen - No Outage
+ 
+User Acceptance Testing
+Step 1 - 11/02/2026 03:30:00 - 00:30 - Send VM credentials to Andy Burns for UAT - Cyber Chen, Andy Burns - No Outage
+
+
+Post-implementation monitoring
+NA
+
+Regression Plan
+Regression Steps
+Step 1 - 11/02/2026 04:00:00 - 00:30 - From Azure DevOps, run Terraform destroy - Cyber Chen - No Outage
+ 
+Post Regression Tests
+Step 1 - 11/02/2026 04:30:00 - 00:30 - From Azure portal, confirm related resources have been deleted - Cyber Chen - No Outage
+
+End User Experience
+No Impact
+
+Risk Review
+ID 1
+
+Category Others
+
+Risk Description New VM provisioning has no impact to existing services
+
+Risk Rating
+(High / Medium / Low)  Low
+
+Date Raised 02/09/2026
+
+Owner Cyber Chen
+
+Mitigating Actions NA
+
+Communication Plan
+Who needs to be informed? (e.g., impacted users, support teams, leadership - include names and contact details):
+
+Company - Team / Contact Name - Contact Details 
+Costa - Andy Burns - andyburns@coca-cola.com
+Costa - Cyber Chen - cybchen@coca-cola.com
+Costa - Costa Infra - cloudcostagdc@coca-cola.com
+
+How the communication would be sent? (e.g., email, Teams, intranet post):
+email
+When will communication occur? (e.g., pre-change notice, post-change confirmatio
+Post-change confirmation will be sent after VM provisioning is completed.
+Who is responsible for sending communications: Cyber Chen
+
+
+
+
+
+
+
+
+
+
+

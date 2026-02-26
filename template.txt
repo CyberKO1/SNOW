@@ -1,0 +1,99 @@
+Change Type
+
+Scheduled Start(date & time)
+
+Scheduled End(date & time)
+
+Short description [Normal] - 
+Do Not Delete the Change Type Keyword and for China Changes add [COSTA CHINA] along with the keyword
+
+Change Summary & Business Justification
+
+Affected Services/ Systems / Components/ Applications Impacted
+1) Service / System / Component / Application Name - Function
+2) Service / System / Component / Application Name - Function
+3) Service / System / Component / Application Name - Function
+
+Implementation plan
+Required time to Implement (In Hours, Minutes): HH:MM
+Please write - High level Step by Step Instructions – (Implementation tasks, name of responsible party/team implementing step, Specify Service Impact {No Outage or Service Outage or Service Degradation})
+
+Pre- Implementation Plan 
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Implementation Plan
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+--------------------
+Test plan
+Required time to Implement (In Hours, Minutes): HH:MM
+Please write - High level Step by Step Instructions – (Implementation tasks, name of responsible party/team implementing step, Specify Service Impact {No Outage or Service Outage or Service Degradation})
+
+Post-implementation Tests
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+User Acceptance Testing
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Post-implementation monitoring
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+
+--------------------
+Regression Plan
+Required time to Implement (In Hours, Minutes): HH:MM
+Please write - High level Step by Step Instructions – (Implementation tasks, name of responsible party/team implementing step, Specify Service Impact {No Outage or Service Outage or Service Degradation})
+
+Regression Steps
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Post Regression Tests
+Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
+
+--------------------
+End User Experience
+
+--------------------
+Risk Review
+ID
+Category (Financial/Service Availability/Political/ Resource Availability/ Schedule/ Technical/ Third Party/ User Comms/ Others)
+Risk Description
+Risk Rating
+(High / Medium / Low)
+Date Raised
+Owner
+Mitigating Actions
+
+Communication Plan
+Who needs to be informed? (e.g., impacted users, support teams, leadership - include names and contact details):
+
+Company - Team / Contact Name - Contact Details 
+EXAMPLE 1 - Costa - Costa Service Delivery - costaitsdm@costacoffee.com
+EXAMPLE 2 - 3rd Party - Joe Bloggs - joebloggs@vendor.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

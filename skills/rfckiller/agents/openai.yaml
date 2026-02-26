@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw"
+  short_description: "Fill Costa ServiceNow change requests with strict format and continuous step timeline"
+
