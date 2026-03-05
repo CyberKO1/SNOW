@@ -1,5 +1,16 @@
 # OpenClaw Field Rules
 
+## Language Requirement
+
+**ALL RFC content must be in English.** This includes:
+- Change Summary & Business Justification
+- All step descriptions
+- Risk descriptions
+- Communication plans
+- Owner names and team names
+
+Use English for everything except specific proper nouns (like system names, product names) that are normally in Chinese.
+
 ## Required Fields
 
 - `scheduled_start`: change window start in `dd/MM/yyyy HH:mm:ss`.
