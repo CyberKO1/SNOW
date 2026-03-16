@@ -1,10 +1,11 @@
-Change Type
+Change Type (Normal/ACCELERATED) [COSTA CHINA]
 
 Scheduled Start(date & time)
 
 Scheduled End(date & time)
 
-Short description [Normal] - 
+Short description [ACCELERATED] - [COSTA CHINA] - <title>
+
 Do Not Delete the Change Type Keyword and for China Changes add [COSTA CHINA] along with the keyword
 
 Change Summary & Business Justification
@@ -18,7 +19,7 @@ Implementation plan
 Required time to Implement (In Hours, Minutes): HH:MM
 Please write - High level Step by Step Instructions – (Implementation tasks, name of responsible party/team implementing step, Specify Service Impact {No Outage or Service Outage or Service Degradation})
 
-Pre- Implementation Plan 
+Pre- Implementation Plan 
 Step 1 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
 Step 2 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
 Step 3 - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact
@@ -75,25 +76,6 @@ Mitigating Actions
 Communication Plan
 Who needs to be informed? (e.g., impacted users, support teams, leadership - include names and contact details):
 
-Company - Team / Contact Name - Contact Details 
+Company - Team / Contact Name - Contact Details 
 EXAMPLE 1 - Costa - Costa Service Delivery - costaitsdm@costacoffee.com
 EXAMPLE 2 - 3rd Party - Joe Bloggs - joebloggs@vendor.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
