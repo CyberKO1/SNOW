@@ -1,3 +1,15 @@
+# SNOW - RFC/PIR Writing Skill
+
+## Important Rules
+
+1. **ALL content must be in English** - Every field, description, and note must be written in English
+2. **Change Type options**: Normal / ACCELERATED
+3. **Short description format**: `[ACCELERATED] - [COSTA CHINA] - <title>` or `[NORMAL] - [COSTA CHINA] - <title>`
+4. **COSTA CHINA must be included** for China changes
+5. **Time validation**: Scheduled End must match the last step's end time (e.g., if last step ends at 16:00, Scheduled End = 16:00)
+
+## Template
+
 Change Type (Normal/ACCELERATED) [COSTA CHINA]
 
 Scheduled Start(date & time)
@@ -79,3 +91,7 @@ Who needs to be informed? (e.g., impacted users, support teams, leadership - inc
 Company - Team / Contact Name - Contact Details 
 EXAMPLE 1 - Costa - Costa Service Delivery - costaitsdm@costacoffee.com
 EXAMPLE 2 - 3rd Party - Joe Bloggs - joebloggs@vendor.com
+
+How the communication would be sent? (e.g., email, Teams, intranet post):
+When will communication occur? (e.g., pre-change notice, post-change confirmation):
+Who is responsible for sending communications:

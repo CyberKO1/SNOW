@@ -41,7 +41,8 @@ Use this skill to produce a fully filled Costa ServiceNow Change Request in the 
 
 ## Formatting Rules
 
-1. Use datetime format `dd/MM/yyyy HH:mm:ss` for all step start timestamps and scheduled start/end fields.
+1. **ALL content must be in English** - Every field, description, note, and example must be written in English. Never mix Chinese or any other language.
+2. Use datetime format `dd/MM/yyyy HH:mm:ss` for all step start timestamps and scheduled start/end fields.
 2. Use step row format exactly:
    - `Step N - Start Date and Time - Duration - Description - Owner Name/Team - Service Impact`
 3. Allowed `Service Impact` values only:
@@ -49,8 +50,9 @@ Use this skill to produce a fully filled Costa ServiceNow Change Request in the 
    - `Service Outage`
    - `Service Degradation`
 4. Preserve short-description keyword requirements:
-   - Keep change type keyword such as `[Normal]` or `[ACCELERATED]`.
-   - For China changes include `[COSTA CHINA]`.
+   - **Change Type options**: `Normal` or `ACCELERATED`
+   - Format must be: `[ACCELERATED] - [COSTA CHINA] - <title>` or `[NORMAL] - [COSTA CHINA] - <title>`
+   - For China changes, `[COSTA CHINA]` is mandatory
 5. Use `NA` for non-applicable fields without changing section structure.
 
 ## Duration Policy
