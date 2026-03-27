@@ -1,0 +1,4 @@
+interface:
+  display_name: "RFC Writer"
+  short_description: "Generate SNOW RFC with strict timeline"
+  default_prompt: "Generate a complete Costa ServiceNow RFC change request from user details with a continuous timeline and English-only output."
